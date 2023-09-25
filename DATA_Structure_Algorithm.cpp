@@ -7,7 +7,7 @@
 using namespace std;
 //                                    -------------------------------------------------
 //                                    |                                               |
-//		                              |	DATA STRUCTURE AND ALGORITHM CODE         |
+//		                          |	DATA STRUCTURE AND ALGORITHM CODE         |
 //                                    |                                               |
 //                                    -------------------------------------------------
 
