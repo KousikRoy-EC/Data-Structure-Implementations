@@ -5,11 +5,6 @@
 #include <conio.h>
 #include <stdio.h>
 using namespace std;
-//                                    -------------------------------------------------
-//                                    |                                               |
-//		                          |	DATA STRUCTURE AND ALGORITHM CODE         |
-//                                    |                                               |
-//                                    -------------------------------------------------
 
 //INSERTING ELEMENT IN AN ARRAY
 /*
